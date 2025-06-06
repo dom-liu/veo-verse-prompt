@@ -8,7 +8,7 @@ Video metadata is stored in JSONC files organized by Veo version.
 Example:
 
 ```
-veo-v1/futuristic-cityscape.jsonc
+veo/futuristic-cityscape.jsonc
 ```
 
 Each JSONC file contains fields such as:
