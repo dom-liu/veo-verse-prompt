@@ -16,7 +16,7 @@ There are several ways you can contribute to this project:
 To add a new video prompt, please follow these steps:
 
 1.  **Create a JSONC file**: Create a new file with the `.jsonc` extension (e.g., `my-awesome-prompt.jsonc`).
-2.  **File Location**: Place your new file in the directory corresponding to the Veo version the prompt is for. For example, prompts for Veo version 1 should go into the `veo-v1/` directory.
+2.  **File Location**: Place your new file in the directory corresponding to the Veo version the prompt is for. For example, prompts for Veo version 1 should go into the `veo/` directory.
 3.  **Content Format**: The JSONC file should contain the following fields:
     ```jsonc
     {
